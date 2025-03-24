@@ -24,7 +24,7 @@ body {
     width: 80%;
     max-width: 500px;
     height: auto;
-    border: 5px solid #ffcc00;
+    border: 5px solid #ff009d;
     margin: 20px auto;
     display: block;
     }
@@ -37,7 +37,7 @@ body {
     width: 80%;
     max-width: 600px;
     height: auto;
-    border: 5px solid #ffcc00;
+    border: 5px solid #ff0080;
     margin: 20px auto;
     display: block;
     }
@@ -61,16 +61,16 @@ body {
         }
         
         #aumentar-fonte {
-        background-color: #66CC66;
+        background-color: #cc669e;
         color: white;
         }
         
         #aumentar-fonte:hover {
-        background-color: #4CAF50;
+        background-color: #af4c75;
         }
         
         #diminuir-fonte {
-        background-color: #FF8C00;
+        background-color: #ff0040;
         color: white;
         }
         
